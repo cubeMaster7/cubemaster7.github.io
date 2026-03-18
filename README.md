@@ -1,4 +1,32 @@
-**Terms of Use for Speaker Cleaner**
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use</title>
+    <style>
+    
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+        }
+     
+        }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Use for Speaker Cleaner</h1>
+    <p>Last updated: [Дата]</p>
+    <p>
+ 
 
 1. General Provisions
 1.1. These Terms of Use (“Terms”) govern your access to and use of the Speaker Cleaner mobile application (“App”).
@@ -48,3 +76,12 @@
 9. Contact Information
 If you have any questions regarding these Terms, you may contact us at:
  Email: luckypaulj@icloud.com
+Ваш текст здесь...</p>
+    
+    <hr>
+    <p style="text-align: center; color: #666; font-size: 0.8em;">
+        © 2026 Ultimate Speaker Cleaner. All rights reserved.
+    </p>
+</body>
+</html>
+
